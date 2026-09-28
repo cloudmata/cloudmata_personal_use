@@ -1,4 +1,4 @@
-# xxx_personal_use
+# normal_story
 
 很久以前，在一所很大的学校里，住着一只小老鼠。
 
